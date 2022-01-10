@@ -1,0 +1,103 @@
+---
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    template: ../templates/svm-latex-cv_mod.tex
+geometry: margin=1in
+
+title: "full_cv_canalejo"
+author: Álvaro Canalejo-Molero
+
+jobtitle: "PhD Researcher, European University Institute"
+address: "Via della Badia dei Roccettini, 9 · 50014 · Fiesole, Italy"
+fontawesome: yes
+email: alvaro.canalejo@eui.eu
+# phone: "+34 686 597 092"
+github: ACanalejo
+twitter: CanalejoAlvaro
+# osf: "Enter 5 digit osf string here"
+web: me.eui.eu/alvaro-canalejo-molero
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+
+---
+
+# RESEARCH INTERESTS
+
+Comparative party politics; political behaviour; political socialisation; causal inference
+
+
+# ACADEMIC POSITIONS
+
+**Lecturer** · University of Lucerne \hfill Spring 2022 \vspace{2 mm}
+
+**Visiting PhD Researcher** · London School of Economics \hfill Autumn 2021 \vspace{1 mm}
+
+Host: Dr. Chris Anderson
+
+
+# EDUCATION
+
+**PhD in Political and Social Sciences** · European University Institute \hfill (Expected) 2023  \vspace{1 mm}
+
+Supervisor: Dr. Hanspeter Kriesi \vspace{2 mm}
+
+**MRes in Political and Social Sciences** · European University Institute \hfill 2019  \vspace{2 mm}
+
+**MSc in Social Sciences** · University Carlos III of Madrid \hfill 2018  \vspace{2 mm}
+
+**BA in Political Science and Public Management** · University Pablo de Olavide \hfill 2016  \vspace{2 mm}
+
+**BA in Law** · University Pablo de Olavide \hfill 2015 \vspace{2 mm}
+
+# ADDITIONAL RESEARCH EXPERIENCE
+
+
+# WORK-IN-PROGRESS
+
+
+# CONFERENCE PAPERS & PRESENTATIONS
+
+
+# GRANTS & AWARDS
+
+
+# COMPLEMENTARY ACADEMIC FORMATION
+
+
+# ADDITIONAL ACTIVITIES
+
+
+# TECHNICAL SKILLS
+
+**Programming Languages:** R (advanced), Python (basic)  \vspace{1 mm}
+
+**Statistical Softwares:** RStudio, Stata, SPSS, Excel  \vspace{1 mm}
+
+**Text Processors:** RMarkdown, \LaTeX, Office  \vspace{1 mm}
+
+**Version Control System:** GitHub  \vspace{1 mm}
+
+**Surveys:** Qualtrics, KoBoToolbox  \vspace{1 mm}
+
+**Reference Management:** Mendeley, Endnote \vspace{1 mm}
+
+# LANGUAGES
+
+**Spanish** (Native)  \vspace{1 mm}
+
+**English** (Advanced)  \vspace{1 mm}
+
+**Italian** (Advanced)  \vspace{1 mm}
+
+**French** (Basic) \vspace{1 mm}
+
+
+
