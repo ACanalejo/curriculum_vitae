@@ -6,10 +6,10 @@ output:
 geometry: margin=1in
 linestretch: 0.5
 
-title: "full_cv_canalejo"
+title: "long_cv"
 author: Álvaro Canalejo-Molero
 
-jobtitle: "PhD Researcher, European University Institute"
+jobtitle: "PhD Researcher, Department of Political and Social Sciences, EUI"
 address: "Via della Badia dei Roccettini, 9 · 50014 · Fiesole, Italy"
 fontawesome: yes
 email: alvaro.canalejo@eui.eu
@@ -34,17 +34,17 @@ urlcolor: blue
 # Research Interests
 \vspace{1 mm}
 
-|   Comparative party politics; political behaviour; political socialisation; causal inference
+|   Comparative politics; political behaviour; political sociology; quantitative methodology
 
 \vspace{1 mm}
 # Academic Positions
 \vspace{1 mm}
 
-|   PhD Researcher · European University Institute \hfill 2018 - current \vspace{2 mm}
+|   **PhD Researcher** · European University Institute \hfill 2018 - current \vspace{2 mm}
 
-|   Lecturer · University of Lucerne \hfill 2022 \vspace{2 mm}
+|   **Lecturer** · University of Lucerne \hfill 2022 \vspace{2 mm}
 
-|   Visiting PhD Researcher · London School of Economics & Political Science \hfill 2021 \vspace{0.1 mm}
+|   **Visiting PhD Researcher** · London School of Economics & Political Science \hfill 2021 \vspace{0.1 mm}
 
 |   Host: Dr. Chris Anderson
 
@@ -52,43 +52,46 @@ urlcolor: blue
 # Education
 \vspace{1 mm}
 
-|   PhD in Political and Social Sciences \hfill (expected) 2023 \vspace{0.1 mm}
+|   **Ph.D. in Political and Social Sciences** \hfill (expected) 2023 \vspace{0.1 mm}
 |   
 |   European University Institute \vspace{0.1 mm}
 |   
 |   Supervisor: Dr. Hanspeter Kriesi \vspace{2 mm}
 |   
-|   MRes in Political and Social Sciences \hfill 2019 \vspace{0.1 mm}
+|   **M.Res. in Political and Social Sciences** \hfill 2019 \vspace{0.1 mm}
 |   
 |   European University Institute \vspace{2 mm}
 |   
-|   MSc in Social Sciences \hfill 2018 \vspace{0.1 mm}
+|   **M.A. in Social Sciences** \hfill 2018 \vspace{0.1 mm}
 |   
-|   University Carlos III of Madrid \vspace{0.1 mm}
+|   Carlos III-Juan March Institute, University Carlos III of Madrid \vspace{0.1 mm}
 |   
-|   GPA:8'58/10 \vspace{2 mm}
+|   First Class \vspace{2 mm}
 |   
-|   BA in Political Science and Public Management \hfill 2016 \vspace{0.1 mm}
+|   **B.A. in Political Science and Public Management** \hfill 2016 \vspace{0.1 mm}
 |   
-|   University Pablo de Olavide \vspace{0.1 mm}
+|   Pablo de Olavide University (Seville, Spain) \vspace{0.1 mm}
 |   
-|   GPA:8'96/10 \vspace{2 mm}
+|   Suma Cum Laude \vspace{2 mm}
 |   
-|   BA in Law \hfill 2015 \vspace{0.1 mm}
+|   **B.A. in Law** \hfill 2015 \vspace{0.1 mm}
 |   
-|   University Pablo de Olavide \vspace{0.1 mm}
+|   Pablo de Olavide University (Seville, Spain) \vspace{0.1 mm}
 |   
-|   GPA:8'4/10 \vspace{0.1 mm}
+|   Suma Cum Laude \vspace{0.1 mm}
 |   
 \vspace{1 mm}
 # Work in Progress
 \vspace{1 mm}
 
-|   "Does new party entry increase electoral turnout? Quasi-experimental evidence from the 2015 Spanish local elections" (*working paper*) \vspace{2 mm}
+|   "Does new party entry increase electoral turnout? Quasi-experimental evidence from the 2015
+|   Spanish local elections" (*working paper*) \vspace{2 mm}
 |   
-|   "Does parliamentary entry increase satisfaction with democracy? Comparative evidence from a three-fold study" (*working paper*) \vspace{2 mm}
+|   "Does parliamentary entry increase satisfaction with democracy? Comparative evidence 
+|   from a three-fold study" (*working paper*) \vspace{2 mm}
 |   
-|   "Braining Hearts: The Role of Electoral Experience on Ideological Moderation" (*working paper*) \vspace{0.1 mm}
+|   "Braining Hearts: The Role of Electoral Experience on Ideological Moderation" 
+|   (*working paper*) \vspace{0.1 mm}
 |   
 \vspace{1 mm}
 # Conference & Seminar's Presentations
@@ -99,8 +102,6 @@ urlcolor: blue
 |   London, LSE \vspace{2 mm}
 |   
 |   11th Annual Conference of the European Political Science Association (EPSA) \hfill 2021 \vspace{0.1 mm}
-|   
-|   Chair of the panel *Electoral Rules and Voter Turnout* \vspace{0.1 mm}
 |   
 |   Online \vspace{2 mm}
 |   
@@ -128,7 +129,7 @@ urlcolor: blue
 # Teaching 
 \vspace{1 mm}
 
-|   [Comparative Western European Party Systems: Continuity and Change](https://portal.unilu.ch/details?code=FS221533) \hfill 2022 \vspace{0.1 mm}
+|   [Comparative Western European Party Systems: Continuity and Change](https://portal.unilu.ch/details?code=FS221533) \hfill Spring term 2022 \vspace{0.1 mm}
 
 |   University of Lucerne \vspace{0.1 mm}
 
@@ -138,7 +139,8 @@ urlcolor: blue
 
 |   Research Assistant · [SOLID](https://solid-erc.eu/) \hfill 2020 - 2021 \vspace{0.1 mm}
 |   
-|   ERC Synergy Grant. PIs: Hanspeter Kriesi (EUI), WaltraudSchelkle (LSE), and Maurizio Ferrera (UniMi). \vspace{2 mm}
+|   ERC Synergy Grant. PIs: Hanspeter Kriesi (EUI), WaltraudSchelkle (LSE),
+|   and Maurizio Ferrera (UniMi). \vspace{2 mm}
 |   
 |   Research Assistant · [POLCON](https://www.eui.eu/projects/polcon) \hfill 2019 - 2020 \vspace{0.1 mm}
 |   
@@ -146,12 +148,14 @@ urlcolor: blue
 |   
 |   Research Assistant · [EUANDI2019](https://euandi2019.eu/survey/default/EN) \hfill 2019 \vspace{0.1 mm}
 |   
-|   European Union’s Rights, Equality and Citizenship Programme 2014 - 2020. PIs: Lorenzo Cicchi (EUI), Diego Garzia (UNILU), Alexander H. Trechsel (UNILU)
+|   European Union’s Rights, Equality and Citizenship Programme 2014 - 2020.
+|   PIs: Lorenzo Cicchi (EUI), Diego Garzia (UNILU), Alexander H. Trechsel (UNILU)
 |   and Elie Michel (UNILU). \vspace{2 mm}
 |   
 |   Research Internship · [¿Por qué odiamos la politica?](https://www.iesa.csic.es/proyectos/por-que-odiamos-la-politica/) \hfill 2015 \vspace{0.1 mm}
 |   
-|   Center of Andalusian Studies (CEA). PIs: Ernesto Ganuza (IESA-CSIC) and Joan Font (IESA-CSIC). \vspace{2 mm}
+|   Center of Andalusian Studies (CEA). PIs: Ernesto Ganuza (IESA-CSIC)
+|   and Joan Font (IESA-CSIC). \vspace{2 mm}
 |   
 |   Research Collaborator · [Parlamentations y Sociedad](https://www.upo.es/investiga/ptyp/es/project/parlamentarios-y-sociedad/) \hfill 2015 \vspace{0.1 mm}
 |   
@@ -159,7 +163,8 @@ urlcolor: blue
 |   
 |   Research Collaborator · [ICOSOP](https://www.upo.es/investiga/ptyp/wp-content/uploads/2018/04/ICOSOP_Informe_seguimiento_3.pdf) \hfill 2014 \vspace{0.1 mm}
 |   
-|   Andalusian Government. PIs: Xavier Coller (UPO) and Jean Baptiste Harguideguy (UPO).
+|   Andalusian Government. PIs: Xavier Coller (UPO)
+|   and Jean Baptiste Harguideguy (UPO).
 
 \vspace{1 mm}
 # Complementary Academic Formation
@@ -167,53 +172,63 @@ urlcolor: blue
 
 |   Introduction to Teaching in Higher Education \hfill 2020
 |   
-|   European University Institute, Florence \vspace{2 mm}
+|   European University Institute \vspace{2 mm}
 |   
 |   6th Leuven-Montréal Winter School on Elections \hfill 2020
 |   
-|   University of Montréal, Montréal \vspace{2 mm}
+|   University of Montréal (Canada) \vspace{2 mm}
 |   
 |   RECSM-UPF Summer School in Survey Methodology \hfill 2019
 |   
-|   Pompeu-Fabra University, Barcelona \vspace{2 mm}
+|   Pompeu-Fabra University (Barcelona, Spain) \vspace{2 mm}
 
 \vspace{1 mm}
-# Additional Activities
+# Scholarships & Awards
 \vspace{1 mm}
 
-|   Co-organiser of the [Political Behaviour Colloquium](https://sites.google.com/site/euipolbehaviour/) \hfill 2020 - 2021
+
+|   Erasmus+ Scholarship for Visiting PhDs \hfill 2021 \vspace{0.1 mm}
 |   
-|   European University Institute, Florence
-
-\vspace{1 mm}
-# Grants & Awards
-\vspace{1 mm}
-
-|   `Salvador de Madariaga' fellowship \hfill 2018 - 2022 \vspace{0.1 mm}
+|   European Comission \vspace{2 mm}
+|   
+|   `Salvador de Madariaga' predoctoral Scholarship \hfill 2018 - 2022 \vspace{0.1 mm}
 |   
 |   Spanish Ministry of Education and European Comission \vspace{2 mm}
 |   
 |   UC3M scholarship of excellence for graduate studies \hfill 2017 - 2018 \vspace{0.1 mm}
 |   
-|   University Carlos III of Madrid, Spain \vspace{2 mm}
+|   University Carlos III of Madrid (Spain) \vspace{2 mm}
 |   
 |   Best GPA of the Promotion Award \hfill 2016 \vspace{0.1 mm}
 |   
-|   University Pablo de Olavide, Spain \vspace{2 mm}
+|   University Pablo de Olavide (Spain) \vspace{2 mm}
 |   
 |   Grant for Beginner Researchers \hfill 2014 \vspace{0.1 mm}
 |   
-|   University Pablo de Olavide, Spain \vspace{2 mm}
+|   University Pablo de Olavide (Spain) \vspace{2 mm}
 |   
 |   Best GPA of the Promotion at the First Course Award \hfill 2011 \vspace{0.1 mm}
 |   
-|   University Pablo de Olavide, Spain \vspace{0.1 mm}
+|   University Pablo de Olavide (Spain) \vspace{0.1 mm}
+
+\vspace{1 mm}
+# Academic Service
+\vspace{1 mm}
+
+|   Chair of the panel *Electoral Rules and Voter Turnout* \hfill 2021 \vspace{0.1 mm}
+|
+|   11th EPSA \vspace{2 mm}
+|
+|   Co-organiser of the [Political Behaviour Colloquium](https://sites.google.com/site/euipolbehaviour/) \hfill 2020 - 2021
 |   
+|   European University Institute
+
+
 \vspace{1 mm}
 # Technical Skills
 \vspace{1 mm}
 
-|   **Programming Languages:** R (advanced), Python (elementary)  \vspace{1 mm}
+|   **Programming Languages:** R (advanced), Python (beginer)  \vspace{1 mm}
 |   
 |   **Statistical Softwares:** RStudio, Stata, SPSS, Excel  \vspace{1 mm}
 |
@@ -223,19 +238,19 @@ urlcolor: blue
 |   
 |   **Text Processors:** RMarkdown, \LaTeX, Office  \vspace{1 mm}
 |   
-|   **Reference Management:** Mendeley, Endnote \vspace{1 mm}
+|   **Reference Management:** Mendeley \vspace{1 mm}
 
 \vspace{1 mm}
 # Languages
 \vspace{1 mm}
 
-|   Spanish (Native)  \vspace{1 mm}
+|   Spanish (native)  \vspace{1 mm}
 |   
-|   English (Proficient)  \vspace{1 mm}
+|   English (proficient)  \vspace{1 mm}
 |   
-|   Italian (Advanced)  \vspace{1 mm}
+|   Italian (advanced)  \vspace{1 mm}
 |   
-|   French (Elementary) \vspace{1 mm}
+|   French (beginner) \vspace{1 mm}
 
 
 

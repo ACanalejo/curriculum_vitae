@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.1.10)  11 JAN 2022 19:30
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.1.10)  12 JAN 2022 23:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**full_cv_canalejo.tex
-(./full_cv_canalejo.tex
+**long_cv_canalejo.tex
+(./long_cv_canalejo.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (c:/Users/acana/AppData/Roaming/TinyTeX/texmf
 -dist/tex/latex/base/article.cls
@@ -535,8 +535,8 @@ put line 308.
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks26
 \dt@b=\toks27
-) (./full_cv_canalejo.aux)
-\openout1 = `full_cv_canalejo.aux'.
+) (./long_cv_canalejo.aux)
+\openout1 = `long_cv_canalejo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
 LaTeX Font Info:    ... okay on input line 106.
@@ -637,9 +637,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 106.
 LaTeX Info: Redefining \pageref on input line 106.
 LaTeX Info: Redefining \nameref on input line 106.
-(./full_cv_canalejo.out) (./full_cv_canalejo.out)
+(./long_cv_canalejo.out) (./long_cv_canalejo.out)
 \@outlinefile=\write3
-\openout3 = `full_cv_canalejo.out'.
+\openout3 = `long_cv_canalejo.out'.
 
 
 (c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fmtcount/fc-englis
@@ -758,291 +758,295 @@ Underfull \hbox (badness 10000) in paragraph at lines 163--201
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--220
+Underfull \hbox (badness 10000) in paragraph at lines 209--223
 
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 209--220
-| | \TU/lmr/m/n/10.95 “Does parliamentary entry increase satisfaction with demo
-cracy? Comparative evidence
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 209--220
+Underfull \hbox (badness 10000) in paragraph at lines 209--223
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--220
+Underfull \hbox (badness 10000) in paragraph at lines 209--223
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 229--266
+Underfull \hbox (badness 10000) in paragraph at lines 232--266
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 288--333
+Underfull \hbox (badness 10000) in paragraph at lines 288--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--333
+Underfull \hbox (badness 10000) in paragraph at lines 288--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--333
+Underfull \hbox (badness 10000) in paragraph at lines 288--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--333
+Underfull \hbox (badness 10000) in paragraph at lines 288--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--333
+Underfull \hbox (badness 10000) in paragraph at lines 288--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--333
+Underfull \hbox (badness 10000) in paragraph at lines 288--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--333
+Underfull \hbox (badness 10000) in paragraph at lines 288--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--333
+Underfull \hbox (badness 10000) in paragraph at lines 288--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--333
+Underfull \hbox (badness 10000) in paragraph at lines 288--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--333
+Underfull \hbox (badness 10000) in paragraph at lines 288--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--333
+Underfull \hbox (badness 10000) in paragraph at lines 288--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--358
+Underfull \hbox (badness 10000) in paragraph at lines 346--362
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--358
+Underfull \hbox (badness 10000) in paragraph at lines 346--362
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--358
+Underfull \hbox (badness 10000) in paragraph at lines 346--362
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--358
+Underfull \hbox (badness 10000) in paragraph at lines 346--362
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--358
+Underfull \hbox (badness 10000) in paragraph at lines 346--362
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 366--372
+Underfull \hbox (badness 10000) in paragraph at lines 370--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--409
+Underfull \hbox (badness 10000) in paragraph at lines 370--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--409
+Underfull \hbox (badness 10000) in paragraph at lines 370--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--409
+Underfull \hbox (badness 10000) in paragraph at lines 370--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--409
+Underfull \hbox (badness 10000) in paragraph at lines 370--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--409
+Underfull \hbox (badness 10000) in paragraph at lines 370--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--409
+Underfull \hbox (badness 10000) in paragraph at lines 370--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--409
+Underfull \hbox (badness 10000) in paragraph at lines 370--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--409
+Underfull \hbox (badness 10000) in paragraph at lines 370--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--409
+Underfull \hbox (badness 10000) in paragraph at lines 370--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--409
+Underfull \hbox (badness 10000) in paragraph at lines 370--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--434
+Underfull \hbox (badness 10000) in paragraph at lines 411--421
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--434
+Underfull \hbox (badness 10000) in paragraph at lines 411--421
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--434
+Underfull \hbox (badness 10000) in paragraph at lines 411--421
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--434
+Underfull \hbox (badness 10000) in paragraph at lines 429--446
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--434
+Underfull \hbox (badness 10000) in paragraph at lines 429--446
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--449
+Underfull \hbox (badness 10000) in paragraph at lines 429--446
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--449
+Underfull \hbox (badness 10000) in paragraph at lines 429--446
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--449
+Underfull \hbox (badness 10000) in paragraph at lines 429--446
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 454--461
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--461
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--461
+
+ []
+
+[3] 
 AED: lastpage setting LastPage
-[3] (./full_cv_canalejo.aux)
-Package rerunfilecheck Info: File `full_cv_canalejo.out' has not changed.
-(rerunfilecheck)             Checksum: 155A3106114B2EF7B9259D1524F5EE84;1725.
+[4] (./long_cv_canalejo.aux)
+Package rerunfilecheck Info: File `long_cv_canalejo.out' has not changed.
+(rerunfilecheck)             Checksum: 5F05B7078D635AD9CA626C4364628451;1730.
  ) 
 Here is how much of TeX's memory you used:
  15974 strings out of 478256
- 300134 string characters out of 5854460
- 671191 words of memory out of 5000000
+ 300135 string characters out of 5854460
+ 672140 words of memory out of 5000000
  36271 multiletter control sequences out of 15000+600000
  411172 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  87i,11n,132p,1205b,357s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on full_cv_canalejo.pdf (3 pages).
+Output written on long_cv_canalejo.pdf (4 pages).
