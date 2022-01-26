@@ -17,7 +17,7 @@ email: alvaro.canalejo@eui.eu
 github: ACanalejo
 twitter: CanalejoAlvaro
 # osf: "Enter 5 digit osf string here"
-web: me.eui.eu/alvaro-canalejo-molero
+web: acanalejo.github.io
 updated: yes
 
 keywords: R Markdown, academic CV, template
@@ -84,14 +84,14 @@ urlcolor: blue
 # Work in Progress
 \vspace{1 mm}
 
-|   "Does new party entry increase electoral turnout? Quasi-experimental evidence from the 2015
-|   Spanish local elections" (*working paper*) \vspace{2 mm}
+|   Canalejo-Molero, Álvaro. Does New Party Entry Increase Electoral Turnout? Quasi-experimental 
+|   Evidence from the 2015 Spanish Local Elections (*working paper available upon request*) \vspace{2 mm}
 |   
-|   "Does parliamentary entry increase satisfaction with democracy? Comparative evidence 
-|   from a three-fold study" (*working paper*) \vspace{2 mm}
+|   Canalejo-Molero, Álvaro. Does Parliamentary Entry Increase Satisfaction with 
+|   Democracy? Comparative Evidence from a Three-fold Study (*work in progress*) \vspace{2 mm}
 |   
-|   "Braining Hearts: The Role of Electoral Experience on Ideological Moderation" 
-|   (*working paper*) \vspace{0.1 mm}
+|   Canalejo-Molero, Álvaro. Braining Hearts: The Role of Electoral Experience on 
+|   Ideological Moderation (*work in progress*) \vspace{0.1 mm}
 |   
 \vspace{1 mm}
 # Conference & Seminar's Presentations
@@ -212,7 +212,7 @@ urlcolor: blue
 |   University Pablo de Olavide (Spain) \vspace{0.1 mm}
 
 \vspace{1 mm}
-# Academic Service
+# Professional Service
 \vspace{1 mm}
 
 |   Chair of the panel *Electoral Rules and Voter Turnout* \hfill 2021 \vspace{0.1 mm}
