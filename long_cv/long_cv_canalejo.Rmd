@@ -128,7 +128,7 @@ urlcolor: blue
 |   Center of Andalusian Studies (CEA). PIs: Ernesto Ganuza (IESA-CSIC)
 |   and Joan Font (IESA-CSIC). \vspace{2 mm}
 |   
-|   Research Collaborator · [Parlamentations y Sociedad](https://www.upo.es/investiga/ptyp/es/project/parlamentarios-y-sociedad/) \hfill 2015 \vspace{0.1 mm}
+|   Research Collaborator · [Parlamentarios y Sociedad](https://www.upo.es/investiga/ptyp/es/project/parlamentarios-y-sociedad/) \hfill 2015 \vspace{0.1 mm}
 |   
 |   Spanish Ministry of Economy. PIs: Xavier Coller (UPO). \vspace{2 mm}
 |   
