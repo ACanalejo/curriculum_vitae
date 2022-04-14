@@ -52,7 +52,7 @@ urlcolor: blue
 # Education
 \vspace{1 mm}
 
-|   **Ph.D. in Political and Social Sciences** \hfill (expected) 2023 \vspace{0.1 mm}
+|   **Ph.D. in Political and Social Sciences** \hfill (expected) 2022 \vspace{0.1 mm}
 |   
 |   European University Institute \vspace{0.1 mm}
 |   
@@ -84,58 +84,29 @@ urlcolor: blue
 # Work in Progress
 \vspace{1 mm}
 
-|   Canalejo-Molero, Álvaro. Does New Party Entry Increase Electoral Turnout? Quasi-experimental 
-|   Evidence from the 2015 Spanish Local Elections (*working paper available upon request*) \vspace{2 mm}
+|   Does New Party Entry Increase Electoral Turnout? Quasi-experimental Evidence from the 2015 
+|   Spanish Local Elections (*working paper available upon request*) \vspace{2 mm}
 |   
-|   Canalejo-Molero, Álvaro. Does Parliamentary Entry Increase Satisfaction with 
-|   Democracy? Comparative Evidence from a Three-fold Study (*work in progress*) \vspace{2 mm}
-|   
-|   Canalejo-Molero, Álvaro. Braining Hearts: The Role of Electoral Experience on 
-|   Ideological Moderation (*work in progress*) \vspace{0.1 mm}
-|   
+|   Does Parliamentary Entry Increase Satisfaction with Democracy? Comparative Evidence from a 
+|   Three-fold Study (*work in progress*, PAP of the experiment embedded [*here*](https://github.com/ACanalejo/ACanalejo.github.io/raw/master/_drafts/french_survey_2022_pap.pdf)) \vspace{2 mm}
+|
+|   Fragmented Party Offer, Vote Choice and Satisfaction with Democracy. *With Morgan Le Corre*
+|   *Juratic* (*work in progress,* PAP [*here*](https://github.com/ACanalejo/ACanalejo.github.io/raw/master/_drafts/french_survey_2022_pap.pdf)) \vspace{2 mm}
+|
+|   Braining Hearts: The Role of Electoral Experience on Ideological Moderation (*work in progress*) \vspace{0.1 mm}
+|
 \vspace{1 mm}
-# Conference & Seminar's Presentations
-\vspace{1 mm}
-
-|   Research Workshop in European Studies \hfill 2021 \vspace{0.1 mm}
-|   
-|   London, LSE \vspace{2 mm}
-|   
-|   11th Annual Conference of the European Political Science Association (EPSA) \hfill 2021 \vspace{0.1 mm}
-|   
-|   Online \vspace{2 mm}
-|   
-|   12th European Graduate Network Conference\hfill 2021 \vspace{0.1 mm}
-|   
-|   Online \vspace{2 mm}
-|   
-|   The Transformation of European Politics Workshop \hfill 2020 \vspace{0.1 mm}
-|   
-|   Online \vspace{2 mm}
-|   
-|   6th Leuven-Montréal Winter School on Elections \hfill 2020 \vspace{0.1 mm}
-|   
-|   Montréal, University of Montréal\vspace{2 mm}
-|   
-|   Political Behaviour Colloquium \hfill 2020 \vspace{0.1 mm}
-|   
-|   Florence, EUI\vspace{2 mm}
-|   
-|   1st Spanish Congress of the European Social Survey \hfill 2018 \vspace{0.1 mm}
-|   
-|   Madrid, UC3M \vspace{0.1 mm}
-|   
-\vspace{1 mm}
-# Teaching 
+# Research Projects
 \vspace{1 mm}
 
-|   [Comparative Western European Party Systems: Continuity and Change](https://portal.unilu.ch/details?code=FS221533) \hfill Spring term 2022 \vspace{0.1 mm}
+*As Principal Investigator*\vspace{1 mm}
 
-|   University of Lucerne \vspace{0.1 mm}
+|   [NewRadRight](https://acanalejo.github.io/research/#research-projects) -- see [Pre-Analysis Plan](https://github.com/ACanalejo/ACanalejo.github.io/raw/master/_drafts/french_survey_2022_pap.pdf) \hfill 2022 \vspace{0.1 mm}
+|   
+|   EUI Mission Funding for Research Activities. PIs: Álvaro Canalejo-Molero (EUI) 
+|   and Morgan Le Corre Juratic (EUI). \vspace{2 mm}
 
-\vspace{1 mm}
-# Additional Research Experience
-\vspace{1 mm}
+*As Member of the Research Team*\vspace{1 mm}
 
 |   Research Assistant · [SOLID](https://solid-erc.eu/) \hfill 2020 - 2021 \vspace{0.1 mm}
 |   
@@ -167,6 +138,58 @@ urlcolor: blue
 |   and Jean Baptiste Harguideguy (UPO).
 
 \vspace{1 mm}
+# Teaching
+\vspace{1 mm}
+
+|   [Comparative Western European Party Systems: Continuity and Change](https://portal.unilu.ch/details?code=FS221533) \hfill Spring term 2022 \vspace{0.1 mm}
+
+|   University of Lucerne \vspace{0.1 mm}
+
+\vspace{1 mm}
+# Conference & Seminar's Presentations
+\vspace{1 mm}
+
+|   New Challenges to Democracy Workshop - CERIUM-FMSH Chair on Global Governance \hfill 2022 \vspace{0.1 mm}
+|   
+|   Montréal, Canada\vspace{2 mm}
+|   
+|   118th Annual Meeting of the American Political Science Association (APSA) \hfill 2022 \vspace{0.1 mm}
+|   
+|   Montréal, Canada\vspace{2 mm}
+|   
+|   12th Annual Conference of the European Political Science Association (EPSA) \hfill 2022 \vspace{0.1 mm}
+|   
+|   Prague, Czech republic \vspace{2 mm}
+|   
+|   Research Workshop in European Studies - LSE European Institute \hfill 2021 \vspace{0.1 mm}
+|   
+|   London, UK \vspace{2 mm}
+|   
+|   11th Annual Conference of the European Political Science Association (EPSA) \hfill 2021 \vspace{0.1 mm}
+|   
+|   Online \vspace{2 mm}
+|   
+|   12th European Graduate Network Conference\hfill 2021 \vspace{0.1 mm}
+|   
+|   Online \vspace{2 mm}
+|   
+|   The Transformation of European Politics Workshop - EUI \hfill 2020 \vspace{0.1 mm}
+|   
+|   Online \vspace{2 mm}
+|   
+|   6th Leuven-Montréal Winter School on Elections \hfill 2020 \vspace{0.1 mm}
+|   
+|   Montréal, Canada\vspace{2 mm}
+|   
+|   EUI Political Behaviour Colloquium \hfill 2020 \vspace{0.1 mm}
+|   
+|   Florence, Italy\vspace{2 mm}
+|   
+|   1st Spanish Congress of the European Social Survey \hfill 2018 \vspace{0.1 mm}
+|   
+|   Madrid, Spain \vspace{0.1 mm}
+|  
+\vspace{1 mm}
 # Complementary Academic Formation
 \vspace{1 mm}
 
@@ -181,6 +204,14 @@ urlcolor: blue
 |   RECSM-UPF Summer School in Survey Methodology \hfill 2019
 |   
 |   Pompeu-Fabra University (Barcelona, Spain) \vspace{2 mm}
+
+\vspace{1 mm}
+# Research Grants
+\vspace{1 mm}
+
+|   Mission Funding for Research Activities *(2,547€)*. *With Morgan Le Corre Juratic.* \hfill 2022 \vspace{0.1 mm}
+|   
+|   European University Institute \vspace{2 mm}
 
 \vspace{1 mm}
 # Scholarships & Awards
@@ -215,6 +246,10 @@ urlcolor: blue
 # Professional Service
 \vspace{1 mm}
 
+|   Discussant of the panel *Democratic Expansion, Protests and Compulsory Voting* \hfill 2022 \vspace{0.1 mm}
+|
+|   118th APSA \vspace{2 mm}
+|
 |   Chair of the panel *Electoral Rules and Voter Turnout* \hfill 2021 \vspace{0.1 mm}
 |
 |   11th EPSA \vspace{2 mm}
@@ -232,7 +267,7 @@ urlcolor: blue
 |   
 |   **Statistical Softwares:** RStudio, Stata, SPSS, Excel  \vspace{1 mm}
 |
-|   **Surveys:** Qualtrics, KoBoToolbox  \vspace{1 mm}
+|   **Surveys:** Qualtrics  \vspace{1 mm}
 |   
 |   **Version Control System:** GitHub  \vspace{1 mm}
 |   
