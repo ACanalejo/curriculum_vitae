@@ -148,17 +148,25 @@ urlcolor: blue
 # Teaching
 \vspace{1 mm}
 
-> Electoral Behavior and Party Competition: Continuity and Change in WE \hfill 2023 \vspace{0.1 mm}
+> [Electoral Behavior and Party Competition: Continuity and Change in WE](https://github.com/ACanalejo/ebpc_unilu2023) \hfill 2023 \vspace{0.1 mm}
 
 > University of Lucerne \vspace{0.1 mm}
 
-> [Comparative Western European Party Systems: Continuity and Change](https://portal.unilu.ch/details?code=FS221533) \hfill 2022 \vspace{0.1 mm}
+> [Comparative Western European Party Systems: Continuity and Change](https://github.com/ACanalejo/cwps_continuity_and_change_unilu2022) \hfill 2022 \vspace{0.1 mm}
 
 > University of Lucerne \vspace{0.1 mm}
 
 \vspace{1 mm}
 # Conference Presentations & Invited Talks
 \vspace{1 mm}
+
+> European Survey Research Association Conference (ESRA), *accepted* \hfill 2023 \vspace{0.1 mm}
+   
+> Milan, Italy \vspace{2 mm}
+
+> 29th Conference of the Council for European Studies (CES), *accepted* \hfill 2023 \vspace{0.1 mm}
+   
+> Reykjavik, Iceland \vspace{2 mm}
 
 > 80th Annual Midwest Political Science Association Conference (MPSA), *accepted* \hfill 2023 \vspace{0.1 mm}
    
@@ -207,6 +215,10 @@ urlcolor: blue
 \vspace{1 mm}
 # Complementary Academic Formation
 \vspace{1 mm}
+
+> Oxford Spring School in Advanced Research Methods \hfill 2023
+
+>  Oxford University \vspace{2 mm}
 
 > Introduction to Teaching in Higher Education \hfill 2020
    
