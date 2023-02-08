@@ -103,6 +103,13 @@ urlcolor: blue
 
 > The Politicization of Digitalization: How Political Parties Structure Nascent Conflicts over Digitalization Issues (*work in progress*) *with Mathilde M. van Ditmars & Alexander H. Trechsel* \vspace{2 mm}
 
+\vspace{1 mm}
+# Research Grants
+\vspace{1 mm}
+
+> Mission Funding for Research Activities *(2,547€)*. *With Morgan Le Corre Juratic.* \hfill 2022 \vspace{0.1 mm}
+
+> European University Institute \vspace{2 mm}
 
 \vspace{1 mm}
 # Research Projects
@@ -233,17 +240,8 @@ urlcolor: blue
 > Pompeu-Fabra University (Barcelona, Spain) \vspace{2 mm}
 
 \vspace{1 mm}
-# Research Grants
-\vspace{1 mm}
-
-> Mission Funding for Research Activities *(2,547€)*. *With Morgan Le Corre Juratic.* \hfill 2022 \vspace{0.1 mm}
-
-> European University Institute \vspace{2 mm}
-
-\vspace{1 mm}
 # Scholarships & Awards
 \vspace{1 mm}
-
 
 > Erasmus+ Scholarship for Visiting PhDs \hfill 2021 \vspace{0.1 mm}
   
