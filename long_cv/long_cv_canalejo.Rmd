@@ -33,7 +33,7 @@ urlcolor: blue
 # Research Interests
 \vspace{1 mm}
 
-> Comparative politics, political behavior, political sociology, quantitative methodology
+> Political behavior, comparative politics, political sociology, quantitative methodology
 
 \vspace{1 mm}
 # Academic Positions
@@ -43,7 +43,7 @@ urlcolor: blue
 
 > University of Lucerne \vspace{2 mm}
 
-> **PhD Researcher** \hfill 2018 - current \vspace{0.1 mm}
+> **PhD Researcher** \hfill 2018 - 2023 \vspace{0.1 mm}
 
 > European University Institute \vspace{2 mm}
 
@@ -61,7 +61,7 @@ urlcolor: blue
 # Education
 \vspace{1 mm}
 
-> **Ph.D. in Political and Social Sciences** \hfill (expected) 2023 \vspace{0.1 mm}
+> **Ph.D. in Political and Social Sciences** \hfill 2023 \vspace{0.1 mm}
 
 > European University Institute \vspace{0.1 mm}
    
@@ -71,7 +71,7 @@ urlcolor: blue
    
 > European University Institute \vspace{2 mm}
    
-> **M.A. in Social Sciences** \hfill 2018 \vspace{0.1 mm}
+> **M.Sc. in Social Sciences** \hfill 2018 \vspace{0.1 mm}
    
 > Carlos III-Juan March Institute, University Carlos III of Madrid \vspace{0.1 mm}
    
@@ -102,6 +102,10 @@ urlcolor: blue
 > Does New Party Entry Increase Electoral Turnout? Quasi-Experimental Evidence from the 2015 Spanish Local Elections (*working paper*) \vspace{2 mm}
 
 > The Politicization of Digitalization: How Political Parties Structure Nascent Conflicts over Digitalization Issues (*work in progress*) *with Mathilde M. van Ditmars & Alexander H. Trechsel* \vspace{2 mm}
+
+> Can Parties Mobilize Voters over Digitalization Issues? A Field Experiment with a Voting Advice Application (*work in progress*) *with Mathilde M. van Ditmars & Alexander H. Trechsel* \vspace{2 mm}
+
+> The political conflict potential of digitalization (*work in progress*) *with Mathilde M. van Ditmars & Alexander H. Trechsel* \vspace{2 mm}
 
 \vspace{1 mm}
 # Research Grants
@@ -157,25 +161,30 @@ urlcolor: blue
 
 > [Electoral Behavior and Party Competition: Continuity and Change in WE](https://github.com/ACanalejo/ebpc_unilu2023) \hfill 2023 \vspace{0.1 mm}
 
-> University of Lucerne \vspace{0.1 mm}
+> Graduate level, University of Lucerne \vspace{0.1 mm}
 
 > [Comparative Western European Party Systems: Continuity and Change](https://github.com/ACanalejo/cwps_continuity_and_change_unilu2022) \hfill 2022 \vspace{0.1 mm}
 
-> University of Lucerne \vspace{0.1 mm}
+> Undergraduate level, University of Lucerne \vspace{0.1 mm}
 
 \vspace{1 mm}
 # Conference Presentations & Invited Talks
 \vspace{1 mm}
 
-> European Survey Research Association Conference (ESRA), *accepted* \hfill 2023 \vspace{0.1 mm}
-   
-> Milan, Italy \vspace{2 mm}
 
-> 29th Conference of the Council for European Studies (CES), *accepted* \hfill 2023 \vspace{0.1 mm}
+> 29th Conference of the Council for European Studies (CES), \hfill 2023 \vspace{0.1 mm}
    
 > Reykjavik, Iceland \vspace{2 mm}
 
-> 80th Annual Midwest Political Science Association Conference (MPSA), *accepted* \hfill 2023 \vspace{0.1 mm}
+> 5th Annual COMPTEXT Conference \hfill 2023 \vspace{0.1 mm}
+   
+> Glasgow, United Kingdom \vspace{2 mm}
+
+> UniLu PolSem Brown Bag Seminar \hfill 2023 \vspace{0.1 mm}
+   
+> Lucerne, Switzerland \vspace{2 mm}
+
+> 80th Annual Midwest Political Science Association Conference (MPSA), \hfill 2023 \vspace{0.1 mm}
    
 > Chicago, US \vspace{2 mm}
 
@@ -296,7 +305,7 @@ urlcolor: blue
   
 >  **Version Control System:** GitHub  \vspace{1 mm}
   
-> **Text Processors:** RMarkdown, \LaTeX, Office  \vspace{1 mm}
+> **Text Processors:** Quarto, \LaTeX, Office  \vspace{1 mm}
   
 > **Reference Management:** Zotero \vspace{1 mm}
 
