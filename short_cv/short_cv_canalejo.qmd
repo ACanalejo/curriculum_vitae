@@ -1,0 +1,122 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Álvaro Canalejo-Molero
+jobtitle: "Postdoctoral Researcher, Department of Political Science, University of Lucerne"
+date: last-modified
+address: "Frohburgstrasse, 3 · 6002 · Luzern, Switzerland"
+email: alvaro.canalejo@unilu.ch
+# phone: "+41 078 267 5636"
+orcid: 0000-0001-7980-0702 # orcid identifier
+web: acanalejo.github.io
+# github: ACanalejo
+fontawesome: yes
+nocite: '@*'
+fontsize: 11pt
+csl: apa-cv.csl
+---
+
+# Employment & Affiliations
+
+*University of Lucerne*
+
+Postdoctoral Researcher \hfill 2022 - current
+
+External Lecturer \hfill 2022
+
+*University of Zurich*
+
+Member of the Digital Society Initiative  \hfill 2022 - current
+
+*London School of Economics*
+
+Visiting PhD Researcher \hfill 2021
+
+# Education
+
+PhD in Political and Social Sciences, *European University Institute* \hfill 2023
+
+MRes in Political and Social Sciences, *European University Institute* \hfill 2019
+
+MSc in Social Sciences, *Carlos III-Juan March Institute, University Carlos III of Madrid* \hfill 2018
+
+BA in Political Science and Public Management, *Pablo de Olavide University* \hfill 2016
+
+BA in Law, *Pablo de Olavide University* \hfill 2015
+
+# Research Grants
+
+EUI Mission Funding for Research Activities *(2,547€)*, with Morgan Le Corre Juratic \hfill 2022
+
+# Teaching Experience
+
+*Graduate level* 
+
+[Electoral Behavior and Party Competition: Continuity and Change in WE](https://github.com/ACanalejo/ebpc_unilu2023), *University of Lucerne*  \hfill 2023
+
+[Comparative Western European Party Systems: Continuity and Change](https://github.com/ACanalejo/cwps_continuity_and_change_unilu2022), *University of Lucerne* \hfill 2022
+
+# Working Papers
+
+Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy
+
+Why does Radical Party Entry Reduce Satisfaction with Democracy? The Role of Affective Polarization *(with Morgan Le Corre Juratic)*
+
+Disruptive Elections and their Implications for Satisfaction with Democracy 
+
+Does New Party Entry Increase Electoral Turnout? Quasi-Experimental Evidence from the 2015 Spanish Local Elections
+
+# Conference Presentations (selected)
+
+Annual Meeting of the American Political Science Association (APSA): 2023 (accepted), 2022
+
+Annual Conference of the European Political Science Association (EPSA): 2023 (accepted), 2022, 2021
+
+Annual Midwest Political Science Association Conference (MPSA): 2023
+
+Conference of the Council for European Studies (CES): 2023
+
+Annual Computational Text Analysis Conference (COMPTEXT): 2023
+
+# Additional Training
+
+Oxford Spring School in Advanced Research Methods, *Oxford University* \hfill 2023
+
+Introduction to Teaching in Higher Education, *European University Institute* \hfill 2020
+
+6th Leuven-Montréal Winter School on Elections, *University of Montréal* \hfill 2020
+
+RECSM-UPF Summer School in Survey Methodology, *Pompeu-Fabra University* \hfill 2019
+
+# Professional Service
+
+Co-organiser of the [Political Behaviour Colloquium](https://sites.google.com/site/euipolbehaviour/), *European University Institute* \hfill 2020 - 2021
+
+# Scholarships & Awards
+
+Erasmus+ Scholarship for Visiting PhDs, *European Comission* \hfill 2021
+
+Salvador de Madariaga doctoral Scholarship, *Spanish Ministry of Education & European Comission* \hfill 2018 - 2023
+
+UC3M Scholarship of Excellence for Graduate Studies, *University Carlos III of Madrid* \hfill 2017 - 2018
+
+Best GPA of the Promotion Award, *University Pablo de Olavide* \hfill 2016
+  
+Grant for Beginner Researchers, *University Pablo de Olavide* \hfill 2014
+  
+Best GPA of the Promotion at the First Course Award, *University Pablo de Olavide* \hfill 2011
+
+# Skills
+
+Programming: R (advanced), Python (beginner)
+  
+Statistical Software: RStudio, Stata, SPSS, Excel 
+  
+Version Control System: GitHub 
+  
+Text Processor: Quarto, \LaTeX, Office 
+  
+Reference Management: Zotero
+
+Language: English (proficient), Spanish (native), Italian (advanced), French (beginner)
