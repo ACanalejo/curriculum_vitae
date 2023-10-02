@@ -69,15 +69,15 @@ Does New Party Entry Increase Electoral Turnout? Quasi-Experimental Evidence fro
 
 # Conference Presentations (selected)
 
-Annual Meeting of the American Political Science Association (APSA): 2023 (accepted), 2022
+*Annual Meeting of the American Political Science Association (APSA):* 2023 (accepted), 2022
 
-Annual Conference of the European Political Science Association (EPSA): 2023 (accepted), 2022, 2021
+*Annual Conference of the European Political Science Association (EPSA):* 2023 (accepted), 2022, 2021
 
-Annual Midwest Political Science Association Conference (MPSA): 2023
+*Annual Midwest Political Science Association Conference (MPSA):* 2023
 
-Conference of the Council for European Studies (CES): 2023
+*Conference of the Council for European Studies (CES):* 2023
 
-Annual Computational Text Analysis Conference (COMPTEXT): 2023
+*Annual Computational Text Analysis Conference (COMPTEXT):* 2023
 
 # Additional Training
 
@@ -109,14 +109,14 @@ Best GPA of the Promotion at the First Course Award, *University Pablo de Olavid
 
 # Skills
 
-Programming: R (advanced), Python (beginner)
+*Programming:* R (advanced), Python (beginner)
   
-Statistical Software: RStudio, Stata, SPSS, Excel 
+*Statistical Software:* RStudio, Stata, SPSS, Excel 
   
-Version Control System: GitHub 
+*Version Control System:* GitHub 
   
-Text Processor: Quarto, \LaTeX, Office 
+*Text Processor:* Quarto, \LaTeX, Office 
   
-Reference Management: Zotero
+*Reference Management:* Zotero
 
-Language: English (proficient), Spanish (native), Italian (advanced), French (beginner)
+*Language:* English (proficient), Spanish (native), Italian (advanced), French (beginner)
