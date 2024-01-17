@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.9)  12 JAN 2024 12:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.9)  17 JAN 2024 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -533,7 +533,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomethree on in
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 ) [1
 
-{c:/Users/acana/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}] [2] [3] [4] [5] 
+{c:/Users/acana/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}] [2] [3] [4] [5] [6] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./long_cv_canalejo.aux)
  ***********
@@ -544,18 +544,18 @@ Package rerunfilecheck Info: File `long_cv_canalejo.out' has not changed.
 (rerunfilecheck)             Checksum: E477841D92F706819CABBE8F3713D91E;1948.
  ) 
 Here is how much of TeX's memory you used:
- 15513 strings out of 476111
- 244196 string characters out of 5792516
+ 15524 strings out of 476111
+ 244297 string characters out of 5792516
  1942528 words of memory out of 5000000
  37107 multiletter control sequences out of 15000+600000
- 599408 words of font info for 201 fonts, out of 8000000 for 9000
+ 599975 words of font info for 209 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,11n,79p,1205b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,79p,1205b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/acana/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on long_cv_canalejo.pdf (5 pages, 119965 bytes).
+Output written on long_cv_canalejo.pdf (6 pages, 120630 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
+ 200 PDF objects out of 1000 (max. 8388607)
+ 156 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
  61553 words of extra memory for PDF output out of 61914 (max. 10000000)
 
