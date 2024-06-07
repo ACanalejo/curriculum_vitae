@@ -93,11 +93,11 @@ urlcolor: blue
 # Working Papers
 \vspace{1 mm}
 
-> Blinded by Out-group Hatred. Why does Radical Right Party Entry Reduce its Voters’ Satisfaction with Democracy? ([preprint](https://osf.io/7bfka)) *with Morgan Le Corre Juratic* \vspace{0.1 mm}
+> Blinded by Out-group Hatred. Why does Radical Right Party Entry Reduce its Voters’ Satisfaction with Democracy? ([preprint](https://osf.io/7bfka)) *with Morgan Le Corre Juratic* *(Under review)* \vspace{0.1 mm}
 
 > &nbsp; ---- *Wilson award for the best paper on French politics presented at the 2022 APSA meeting* \vspace{2 mm}
 
-> Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy (*working paper available upon request*) \vspace{2 mm}
+> Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy ([preprint](https://osf.io/ekymh)) \vspace{2 mm}
 
 > Does New Party Entry Increase Electoral Turnout? Quasi-Experimental Evidence from the 2015 Spanish Local Elections (*working paper available upon request*) \vspace{2 mm}
 
@@ -159,6 +159,10 @@ urlcolor: blue
 
 > Swiss National Science Foundation (SNSF). PI: Alexander Trechsel (UNILU). \vspace{2 mm}
 
+> Scientific Committee Member · [EU&I 2024](https://euandi.eu/en/about/overview.html) \hfill 2023 - 2024 \vspace{0.1 mm}
+
+> EUI Robert Schuman Centre for Advanced Studies (RSCAS). PIs: Lorenzo Cicchi (EUI) and Andres Reiljan (EUI). \vspace{2 mm}
+
 > Research Assistant · [SOLID](https://solid-erc.eu/) \hfill 2020 - 2021 \vspace{0.1 mm}
 
 > ERC Synergy Grant. PIs: Hanspeter Kriesi (EUI), WaltraudSchelkle (LSE), and Maurizio Ferrera (UniMi). \vspace{2 mm}
@@ -200,8 +204,57 @@ urlcolor: blue
 > Undergraduate level, University of Lucerne \vspace{0.1 mm}
 
 \vspace{1 mm}
+# Theses supervision
+\vspace{1 mm}
+
+> **MA Theses** \vspace{0.1 mm}
+
+> Sören Gebert *(University of Lucerne)* \hfill 2024 *(expected)* \vspace{0.1 mm}
+
+> Miguel Corredera *(University of Lucerne)* \hfill 2024 \vspace{2 mm}
+
+> **BA Theses** \vspace{0.1 mm}
+
+> Jasna Jatsch *(University of Lucerne)* \hfill 2025 *(expected)* \vspace{0.1 mm}
+
+> Christina Münger *(University of Lucerne)* \hfill 2024 *(expected)* \vspace{2 mm}
+
+
+\vspace{1 mm}
 # Conference Presentations & Invited Talks
 \vspace{1 mm}
+
+> 120th Annual Meeting of the American Political Science Association (APSA) *(accepted)* \hfill 2024 \vspace{0.1 mm}
+  
+> Philadelphia, US\vspace{2 mm}
+
+> 14th Annual Conference of the European Political Science Association (EPSA)  *(accepted)* \hfill 2024 \vspace{0.1 mm}
+  
+> Cologne, Germany\vspace{2 mm}
+
+> ECPR General Conference *(accepted)* \hfill 2024 \vspace{0.1 mm}
+  
+> Dublin, Ireland\vspace{2 mm}
+
+> XVII Congress of the Spanish Political Science Association (AECPA) *(accepted)* \hfill 2024 \vspace{0.1 mm}
+  
+> Burgos, Spain\vspace{2 mm}
+
+> EUI Towards Affective Depolarization Workshop \hfill 2024 \vspace{0.1 mm}
+  
+> Florence, Italy\vspace{2 mm}
+
+> Luiss Guido Carli Cluster of Excelence on Elections (CISE) Seminar \hfill 2024 \vspace{0.1 mm}
+   
+> Rome, Italy \vspace{2 mm}
+
+> UniLu PolSem Brown Bag Seminar \hfill 2024 \vspace{0.1 mm}
+   
+> Lucerne, Switzerland \vspace{2 mm}
+
+> Annual Congress of the Swiss Political Science Association (SPSA) \hfill 2024 \vspace{0.1 mm}
+   
+> St. Gallen, Switzerland \vspace{2 mm}
 
 > Annual Congress of the Swiss Political Science Association (SPSA) \hfill 2024 \vspace{0.1 mm}
    
@@ -323,17 +376,25 @@ urlcolor: blue
 # Professional Service
 \vspace{1 mm}
 
-> Discussant of the panel *Democratic Expansion, Protests and Compulsory Voting* \hfill 2022 \vspace{0.1 mm}
-
-> 118th APSA \vspace{2 mm}
-
-> Chair of the panel *Electoral Rules and Voter Turnout* \hfill 2021 \vspace{0.1 mm}
-
-> 11th EPSA \vspace{2 mm}
-
-> Co-organiser of the [Political Behaviour Colloquium](https://sites.google.com/site/euipolbehaviour/) \hfill 2020 - 2021
+> Organiser of the UniLu PolSem Brown Bag Seminar \hfill 2023 - current \vspace{0.1 mm}
    
-> European University Institute
+> University of Lucerne \vspace{2 mm}
+
+> Panel Chair \hfill 2024 \vspace{0.1 mm}
+
+> SPSA \vspace{2 mm}
+
+> Panel Discussant \hfill 2022 \vspace{0.1 mm}
+
+> APSA \vspace{2 mm}
+
+> Panel Chair \hfill 2021 \vspace{0.1 mm}
+
+> EPSA \vspace{2 mm}
+
+> Co-organiser of the [Political Behaviour Colloquium](https://sites.google.com/site/euipolbehaviour/) \hfill 2020 - 2021 \vspace{0.1 mm}
+   
+> European University Institute \vspace{2 mm}
 
 
 \vspace{1 mm}
