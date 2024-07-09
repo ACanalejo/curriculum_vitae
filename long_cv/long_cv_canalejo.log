@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.7)  7 JUN 2024 12:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.1)  9 JUL 2024 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **long_cv_canalejo.tex
 (./long_cv_canalejo.tex
-LaTeX2e <2024-06-01>
+LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
 (c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
@@ -489,32 +489,38 @@ File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 [3]
 
 [4]
+LaTeX Info: Symbol \textasciiacute not provided by
+            font family pplj in TS1 encoding.
+            Default family used instead on input line 795.
+
 
 [5]
 
-[6] 
+[6]
+
+[7] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./long_cv_canalejo.aux)
  ***********
-LaTeX2e <2024-06-01>
+LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
 Package rerunfilecheck Info: File `long_cv_canalejo.out' has not changed.
-(rerunfilecheck)             Checksum: 075E5FB2B2E5891EB58AB5A51E6C8C9F;2087.
+(rerunfilecheck)             Checksum: 25AFD102E5CAEDCB1E426487D729C09C;2211.
  ) 
 Here is how much of TeX's memory you used:
- 13519 strings out of 475560
- 208779 string characters out of 5776371
- 1943894 words of memory out of 5000000
- 35894 multiletter control sequences out of 15000+600000
- 592155 words of font info for 91 fonts, out of 8000000 for 9000
+ 13528 strings out of 475544
+ 208892 string characters out of 5775997
+ 1943908 words of memory out of 5000000
+ 35915 multiletter control sequences out of 15000+600000
+ 593265 words of font info for 93 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,79p,1205b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <c:/Users/acana/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on long_cv_canalejo.pdf (6 pages, 121039 bytes).
+ <c:/Users/acana/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk> <c:/Users/acana/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on long_cv_canalejo.pdf (7 pages, 122573 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 146 compressed objects within 2 object streams
- 22 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 210 PDF objects out of 1000 (max. 8388607)
+ 164 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
