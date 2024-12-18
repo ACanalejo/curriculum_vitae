@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  17 DEC 2024 17:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.17)  17 DEC 2024 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**long_cv_canalejo.tex
-(./long_cv_canalejo.tex
+**full_cv_canalejo.tex
+(./full_cv_canalejo.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
 (c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -357,8 +357,8 @@ LaTeX Info: Redefining \today on input line 736.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count324
 \l__pdf_internal_box=\box55
-) (./long_cv_canalejo.aux)
-\openout1 = `long_cv_canalejo.aux'.
+) (./full_cv_canalejo.aux)
+\openout1 = `full_cv_canalejo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
 LaTeX Font Info:    ... okay on input line 106.
@@ -424,9 +424,9 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 106.
-(./long_cv_canalejo.out) (./long_cv_canalejo.out)
+(./full_cv_canalejo.out) (./full_cv_canalejo.out)
 \@outlinefile=\write3
-\openout3 = `long_cv_canalejo.out'.
+\openout3 = `full_cv_canalejo.out'.
 
 (c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
@@ -489,34 +489,34 @@ File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 [5]
 LaTeX Info: Symbol \textasciiacute not provided by
             font family pplj in TS1 encoding.
-            Default family used instead on input line 870.
+            Default family used instead on input line 891.
 
 
 [6]
 
 [7] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./long_cv_canalejo.aux)
+(./full_cv_canalejo.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
-Package rerunfilecheck Info: File `long_cv_canalejo.out' has not changed.
+Package rerunfilecheck Info: File `full_cv_canalejo.out' has not changed.
 (rerunfilecheck)             Checksum: 25AFD102E5CAEDCB1E426487D729C09C;2211.
  ) 
 Here is how much of TeX's memory you used:
  13568 strings out of 475290
- 210060 string characters out of 5767281
- 623743 words of memory out of 5000000
+ 210060 string characters out of 5767280
+ 622743 words of memory out of 5000000
  36194 multiletter control sequences out of 15000+600000
  596055 words of font info for 97 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,79p,1205b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/acana/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk> <c:/Users/acana/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/acana/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on long_cv_canalejo.pdf (7 pages, 134289 bytes).
+Output written on full_cv_canalejo.pdf (7 pages, 134316 bytes).
 PDF statistics:
- 215 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
+ 216 PDF objects out of 1000 (max. 8388607)
+ 168 compressed objects within 2 object streams
  24 named destinations out of 1000 (max. 500000)
  129 words of extra memory for PDF output out of 10000 (max. 10000000)
 

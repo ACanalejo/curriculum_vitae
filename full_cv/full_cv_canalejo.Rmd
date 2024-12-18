@@ -95,9 +95,9 @@ urlcolor: blue
 
 > ***Canalejo-Molero, Á.*** *& Le Corre Juratic, M.* Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy? *(Under review)* Preprint available [here](https://osf.io/7bfka). \vspace{0.1 mm}
 
-> &nbsp; ---- *Wilson award for the best paper on French politics presented at the 2022 APSA meeting* \vspace{0.1 mm}
+> &nbsp; ---- *Djøf Forlag prize for the best paper presented by a junior researcher at the 2023 Danish Political Science Association conference* \vspace{0.1 mm}
 
-> &nbsp; ---- *Djøf Forlag prize for the best paper presented by a junior researcher at the 2023 Danish Political Science Association conference* \vspace{2 mm}
+> &nbsp; ---- *Wilson award for the best paper on French politics presented at the 2022 APSA meeting* \vspace{2 mm}
 
 > *Padilla-Galviz, E. S. &* ***Canalejo-Molero, Á.*** Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections  *(Under review)* \vspace{2 mm}
 
@@ -201,7 +201,7 @@ urlcolor: blue
 # Teaching
 \vspace{1 mm}
 
-> Research Design and Methods in Quantitative Research \hfill 2024 \vspace{0.1 mm}
+> [Research Design and Methods in Quantitative Research](https://github.com/ACanalejo/rdmqr_unilu2024) \hfill 2024 \vspace{0.1 mm}
 
 > Graduate level, University of Lucerne \vspace{0.1 mm}
 
@@ -250,6 +250,10 @@ urlcolor: blue
    
 > Geneva, Switzerland \vspace{2 mm}
 
+> The Political Economy of AI Workshop (University of Barcelona)  \hfill 2024 \vspace{0.1 mm}
+  
+> Barcelona, Spain\vspace{2 mm}
+
 > UZH-DSI Digital Democracy Workshop \hfill 2024 \vspace{0.1 mm}
    
 > Zurich, Switzerland \vspace{2 mm}
@@ -291,7 +295,9 @@ urlcolor: blue
 > Lucerne, Switzerland \vspace{2 mm}
 
 > Annual Congress of the Swiss Political Science Association (SPSA) \hfill 2024 \vspace{0.1 mm}
-   
+
+> Panel chair \vspace{0.1 mm}
+
 > St. Gallen, Switzerland \vspace{2 mm}
 
 > EU Comission - Joint Research Centre (JRC) DIGCLASS Workshop \hfill 2023 \vspace{0.1 mm}
@@ -323,6 +329,8 @@ urlcolor: blue
 > Montréal, Canada \vspace{2 mm}
   
 > 118th Annual Meeting of the American Political Science Association (APSA) \hfill 2022 \vspace{0.1 mm}
+
+> Panel discussant \vspace{0.1 mm}
   
 > Montréal, Canada\vspace{2 mm}
   
@@ -335,7 +343,9 @@ urlcolor: blue
 > London, UK \vspace{2 mm}
   
 > 11th Annual Conference of the European Political Science Association (EPSA) \hfill 2021 \vspace{0.1 mm}
-   
+
+> Panel chair \vspace{0.1 mm}
+
 > Online \vspace{2 mm}
   
 > 12th European Graduate Network Conference\hfill 2021 \vspace{0.1 mm}
@@ -429,18 +439,6 @@ urlcolor: blue
 > Organiser of the UniLu PolSem Brown Bag Seminar \hfill 2023 - current \vspace{0.1 mm}
    
 > University of Lucerne \vspace{2 mm}
-
-> Panel Chair \hfill 2024 \vspace{0.1 mm}
-
-> SPSA \vspace{2 mm}
-
-> Panel Discussant \hfill 2022 \vspace{0.1 mm}
-
-> APSA \vspace{2 mm}
-
-> Panel Chair \hfill 2021 \vspace{0.1 mm}
-
-> EPSA \vspace{2 mm}
 
 > Co-organiser of the [Political Behaviour Colloquium](https://sites.google.com/site/euipolbehaviour/) \hfill 2020 - 2021 \vspace{0.1 mm}
    
