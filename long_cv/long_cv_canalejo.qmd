@@ -29,9 +29,11 @@ csl: apa-cv.csl
 
 &nbsp; Digital Society Initiative member \hfill 2022 - current
 
-*London School of Economics*
+# Visiting Positions
 
-&nbsp; Visiting PhD Researcher \hfill 2021
+Autonomous University of Barcelona (hosted by *Enrique Hernández*) \hfill Jan - Feb 2025
+
+London School of Economics (hosted by *Chris J. Anderson*) \hfill Sep - Dec 2021
 
 # Education
 
@@ -61,9 +63,9 @@ BA in Law, *Pablo de Olavide University* \hfill 2015
 
 &nbsp; --- Wilson award for the best paper on French politics presented at the 2022 APSA meeting
 
-Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Under review)
+Padilla Moreno-Torres, J., **Canalejo-Molero, Á.** & López Ortega, A. *Bukele in Brussels? Explaining the Rise of the Spanish Far-Right SALF*  (Revise and resubmit)
 
-Padilla Moreno-Torres, J., **Canalejo-Molero, Á.** & López Ortega, A. *Bukele in Brussels? Explaining the Rise of the Spanish Far-Right SALF*  (Under review)
+Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Under review)
 
 **Canalejo-Molero, Á.** *Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy* [[Preprint](https://osf.io/ekymh)]
 
@@ -102,6 +104,8 @@ EUI Mission Funding for Research Activities *(2,547€)*, with Morgan Le Corre J
 # Invited Talks and Workshops (selected)
 
 ECPR Joint Sessions \hfill 2025 *(expected)*
+
+UAB DEC Seminar \hfill 2025
 
 UB Workshop on The Political Economy of AI \hfill 2024
 
@@ -170,11 +174,15 @@ Best GPA of the Promotion Award, *University Pablo de Olavide* \hfill 2016
 
 # Professional Service
 
-EPSR Co-Editor of a Special Issue on the 2024 EP Elections \hfill 2024 - current
+[EPSR](https://www.cambridge.org/core/journals/european-political-science-review) Co-Editor  of a Special Issue on the 2024 EP Elections \hfill 2024 - current
 
 Organiser of the *PolSem* Brown Bag Seminar, *University of Lucerne* \hfill 2023 - current
 
 Co-organiser of the [Political Behaviour Colloquium](https://sites.google.com/site/euipolbehaviour/), *European University Institute* \hfill 2020 - 2021
+
+# Journal Reviews
+
+Invited reviewer for *Government & Opposition* and *German Politics*
 
 # Professional Associations Membership (current)
 
