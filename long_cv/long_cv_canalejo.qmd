@@ -63,9 +63,13 @@ BA in Law, *Pablo de Olavide University* \hfill 2015
 
 &nbsp; --- Wilson award for the best paper on French politics presented at the 2022 APSA meeting
 
-Padilla Moreno-Torres, J., **Canalejo-Molero, Á.** & López Ortega, A. *Bukele in Brussels? Explaining the Rise of the Spanish Far-Right SALF*  (Revise and resubmit)
+Padilla Moreno-Torres, J., **Canalejo-Molero, Á.** & López Ortega, A. *When the Party is Over: Explaining the Rise of the Spanish Far-Right SALF*  (Under review)
 
 Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Under review)
+
+**Canalejo-Molero, Á.**, Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Under review)
+
+Ferreira da Silva, F., **Canalejo-Molero, Á.**, Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing partisan animosity with Voting Advice Applications (VAAs)* (Under review)
 
 **Canalejo-Molero, Á.** *Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy* [[Preprint](https://osf.io/ekymh)]
 
@@ -80,10 +84,6 @@ Le Corre Juratic, M. & **Canalejo-Molero, Á.** *Assessing the Severity and Natu
 # Work in Progress
 
 The Spillover Effects of Center-Periphery Dynamics on Politically Disenfranchised Regions (with Padilla Moreno-Torres, J.& López Ortega, A.)
-
-Reducing Affective Polarization with VAAs (with Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.)
-
-Depolarizing Interventions before the European Parliament Elections (with Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.)
 
 The Politicization of Digitalization (with Flechtner, M. & Trechsel, A. H.)
 
@@ -147,7 +147,7 @@ Graduate level
 
 Undergraduate level
 
-&nbsp; [Political Culture](https://github.com/ACanalejo/politicalculture_unilu2024),  *University of Lucerne*  \hfill 2024
+&nbsp; [Culture and Politics](https://github.com/ACanalejo/politicalculture_unilu2025),  *University of Lucerne*  \hfill 2024, 2025
 
 &nbsp; [Electoral Behavior and Party Competition: Continuity and Change in WE](https://github.com/ACanalejo/ebpc_unilu2023), *University of Lucerne*  \hfill 2023
 
@@ -155,7 +155,7 @@ Undergraduate level
 
 # Supervision
 
-Five BA theses and two MA theses (including *expected*)
+Seven BA theses and six MA theses (including *expected*)
 
 # Public Outreach
 
@@ -182,7 +182,7 @@ Co-organiser of the [Political Behaviour Colloquium](https://sites.google.com/si
 
 # Journal Reviews
 
-Invited reviewer for *Government & Opposition* and *German Politics*
+Invited reviewer for *American Journal of Political Science*, *Public Opinion Quarterly*, *Government & Opposition* and *German Politics*
 
 # Professional Associations Membership (current)
 
