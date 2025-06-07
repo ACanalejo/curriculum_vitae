@@ -25,10 +25,6 @@ csl: apa-cv.csl
 
 &nbsp; External Lecturer \hfill 2022
 
-*University of Zurich*
-
-&nbsp; Digital Society Initiative member \hfill 2022 - current
-
 # Visiting Positions
 
 Autonomous University of Barcelona (hosted by *Enrique Hernández*) \hfill Jan - Feb 2025
@@ -55,6 +51,10 @@ BA in Law, *Pablo de Olavide University* \hfill 2015
 
 &nbsp; --- Suma Cum Laude
 
+# Peer-Reviewed Publications
+
+Padilla Moreno-Torres, J., **Canalejo-Molero, Á.** & López Ortega, A. *When the Party is Over: Explaining the Rise of the Spanish Far-Right SALF*  (Conditionally accepted at *Research & Politics*)
+
 # Working Papers
 
 **Canalejo-Molero, Á.** & Le Corre Juratic, M. *Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy?* [[Preprint](https://osf.io/7bfka)] (Under review)
@@ -62,8 +62,6 @@ BA in Law, *Pablo de Olavide University* \hfill 2015
 &nbsp; --- Djøf Forlag prize for the best paper presented by a junior researcher at the 2023 Danish Political Science Association conference
 
 &nbsp; --- Wilson award for the best paper on French politics presented at the 2022 APSA meeting
-
-Padilla Moreno-Torres, J., **Canalejo-Molero, Á.** & López Ortega, A. *When the Party is Over: Explaining the Rise of the Spanish Far-Right SALF*  (Under review)
 
 Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Under review)
 
@@ -97,13 +95,13 @@ UniLu FoKo Funding *(12,231 CHF)*, with Alberto López Ortega and Javier Padilla
 
 EUI Mission Funding for Research Activities *(2,547€)*, with Morgan Le Corre Juratic \hfill 2022
 
-# Additional Research Team Experience
+# Additional Experience in Research Projects
 
 [DIGIPOL](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/research/digitalization-and-political-conflict-parties-voters-and-electoral-alignment-digipol/) (Scientific Coordinator), [EU&I 2024](https://euandi.eu/en/about/overview.html) (Scientific Committee), [SOLID](https://solid-erc.eu/), [POLCON](https://www.eui.eu/projects/polcon), [EUANDI2019](https://euandi2019.eu/survey/default/EN), [¿Por qué odiamos la politica?](https://www.iesa.csic.es/proyectos/por-que-odiamos-la-politica/), [Parlamentarios y Sociedad](https://www.upo.es/investiga/ptyp/es/project/parlamentarios-y-sociedad/), [ICOSOP](https://www.upo.es/investiga/ptyp/wp-content/uploads/2018/04/ICOSOP_Informe_seguimiento_3.pdf)
 
 # Invited Talks and Workshops (selected)
 
-ECPR Joint Sessions \hfill 2025 *(expected)*
+ECPR Joint Sessions \hfill 2025
 
 UAB DEC Seminar \hfill 2025
 
@@ -125,13 +123,15 @@ CERIUM-FMSH New Challenges to Democracy Workshop \hfill 2022
 
 American Political Science Association (APSA) \hfill 2024, 2023 (accepted), 2022
 
-American Political Science Association (EPSA) \hfill 2024 (accepted), 2023 (accepted), 2022, 2021
-
-Midwest Political Science Association (MPSA) \hfill 2025 (accepted), 2023
+European Political Science Association (EPSA) \hfill 2025, 2024 (accepted), 2023 (accepted), 2022, 2021
 
 European Consortium of Political Research (ECPR) \hfill 2024 (accepted), 2023 (accepted)
 
 Council of European Studies (CES) \hfill 2023
+
+Midwest Political Science Association (MPSA) \hfill 2025 (accepted), 2023
+
+International Political Science Association (IPSA) \hfill 2025
 
 Computational Text Analysis Conference (COMPTEXT) \hfill 2023
 
@@ -155,7 +155,7 @@ Undergraduate level
 
 # Supervision
 
-Seven BA theses and six MA theses (including *expected*)
+Seven BA theses and five MA theses (including *expected*)
 
 # Public Outreach
 
@@ -176,17 +176,17 @@ Best GPA of the Promotion Award, *University Pablo de Olavide* \hfill 2016
 
 [EPSR](https://www.cambridge.org/core/journals/european-political-science-review) Co-Editor  of a Special Issue on the 2024 EP Elections \hfill 2024 - current
 
-Organiser of the *PolSem* Brown Bag Seminar, *University of Lucerne* \hfill 2023 - current
+Convenor of the *PolSem* Brown Bag Seminar, *University of Lucerne* \hfill 2023 - current
 
 Co-organiser of the [Political Behaviour Colloquium](https://sites.google.com/site/euipolbehaviour/), *European University Institute* \hfill 2020 - 2021
 
 # Journal Reviews
 
-Invited reviewer for *American Journal of Political Science*, *Public Opinion Quarterly*, *Government & Opposition* and *German Politics*
+Invited reviewer for *American Journal of Political Science*, *European Journal of Political Research*, *Public Opinion Quarterly*, *Government & Opposition* and *German Politics*
 
 # Professional Associations Membership (current)
 
-APSA, EPSA, ECPR, AECPA
+[APSA](https://apsanet.org/), [EPSA](https://epsanet.org/), [ECPR](https://ecpr.eu/), [IPSA](https://www.ipsa.org/), [DSI](https://www.dsi.uzh.ch/en.html), [AECPA](https://www.aecpa.es/)
 
 # Additional Training
 
