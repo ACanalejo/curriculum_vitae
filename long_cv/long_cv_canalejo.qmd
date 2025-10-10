@@ -53,9 +53,11 @@ BA in Law, *Pablo de Olavide University* \hfill 2015
 
 # Peer-Reviewed Publications
 
-Moreno-Torres, J. P., **Canalejo-Molero, Á.**, & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)
+Moreno-Torres, J. P., Canalejo-Molero, Á., & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)
 
 # Working Papers
+
+Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Revise and resubmit, *EJPR*)
 
 **Canalejo-Molero, Á.** & Le Corre Juratic, M. *Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy?* [[Preprint](https://osf.io/7bfka)] (Under review)
 
@@ -63,7 +65,7 @@ Moreno-Torres, J. P., **Canalejo-Molero, Á.**, & López Ortega, A. (2025). When
 
 &nbsp; --- Wilson award for the best paper on French politics presented at the 2022 APSA meeting
 
-Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Under review)
+Le Corre Juratic, M. & **Canalejo-Molero, Á.** *Assessing the Severity and Nature of Losers’ Consent Erosion in Polarized Societies* (Under review)
 
 **Canalejo-Molero, Á.**, Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Under review)
 
@@ -73,15 +75,13 @@ Ferreira da Silva, F., **Canalejo-Molero, Á.**, Cicchi, L., Garzia, D., Reiljan
 
 **Canalejo-Molero, Á.** *Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy* [[Preprint](https://osf.io/ekymh)]
 
-Le Corre Juratic, M. & **Canalejo-Molero, Á.** *Assessing the Severity and Nature of Losers’ Consent Erosion in Polarized Societies* (Working paper available upon request)
-
-**Canalejo-Molero, Á.** *Does New Party Entry Increase Electoral Turnout? Quasi-Experimental Evidence from the 2015 Spanish Local Elections* (Working paper available upon request)
+**Canalejo-Molero, Á.,** López Ortega, A. & Moreno-Torres, J. P. *The Spillover Politics of Asymmetric Devolution: Evidence from Spain* (Working paper available upon request)
 
 **Canalejo-Molero, Á.** *Disruptive Elections and their Implications for Satisfaction with Democracy* (Working paper available upon request)
 
-# Work in Progress
+**Canalejo-Molero, Á.** *Does New Party Entry Increase Electoral Turnout? Quasi-Experimental Evidence from the 2015 Spanish Local Elections* (Working paper available upon request)
 
-The Spillover Effects of Center-Periphery Dynamics on Politically Disenfranchised Regions (with Padilla Moreno-Torres, J.& López Ortega, A.)
+# Work in Progress
 
 The Politicization of Digitalization (with Flechtner, M. & Trechsel, A. H.)
 
@@ -182,7 +182,7 @@ Co-organiser of the [Political Behaviour Colloquium](https://sites.google.com/si
 
 # Journal Reviews
 
-Invited reviewer for *American Journal of Political Science*, *European Journal of Political Research*, *Public Opinion Quarterly*, *Government & Opposition*, *Research and Politics*, *Acta Politica* and *German Politics*
+Invited reviewer for *American Journal of Political Science*, *Journal of Politics*, *European Journal of Political Research*, *Public Opinion Quarterly*, *Government & Opposition*, *Research and Politics*, *Politics & Governance*, *Acta Politica* and *German Politics*
 
 # Professional Associations Membership (current)
 
