@@ -59,6 +59,8 @@ Moreno-Torres, J. P., Canalejo-Molero, Á., & López Ortega, A. (2025). When the
 
 Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Revise and resubmit, *EJPR*)
 
+**Canalejo-Molero, Á.**, Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Revise and resubmit, *EPSR*)
+
 **Canalejo-Molero, Á.** & Le Corre Juratic, M. *Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy?* [[Preprint](https://osf.io/7bfka)] (Under review)
 
 &nbsp; --- Djøf Forlag prize for the best paper presented by a junior researcher at the 2023 Danish Political Science Association conference
@@ -66,8 +68,6 @@ Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic 
 &nbsp; --- Wilson award for the best paper on French politics presented at the 2022 APSA meeting
 
 Le Corre Juratic, M. & **Canalejo-Molero, Á.** *Assessing the Severity and Nature of Losers’ Consent Erosion in Polarized Societies* (Under review)
-
-**Canalejo-Molero, Á.**, Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Under review)
 
 Ferreira da Silva, F., **Canalejo-Molero, Á.**, Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing partisan animosity with Voting Advice Applications (VAAs)* (Under review)
 
@@ -155,7 +155,7 @@ Undergraduate level
 
 # Supervision
 
-Eight BA theses and six MA theses (including *expected*)
+Ten BA theses and twelve MA theses (including as *second-reader* and *expected*)
 
 # Public Outreach
 
@@ -212,4 +212,4 @@ Text Processor: *Quarto, RMarkdown, Overleaf, Office,* \LaTeX
   
 Reference Management: *Zotero*
 
-Languages: *English (proficient), Spanish (native), Italian (advanced), French (beginner)*
+Languages: *English (proficient), Spanish (native), Italian (advanced), French (beginner), German (beginner)*
