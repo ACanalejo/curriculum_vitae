@@ -99,7 +99,7 @@ UniLu FaFoFö Funding *(2,000 CHF ≈ 2,142€)* \hfill 2025
 
 Small Grant Aarhus University *(35,000 DKK ≈ 4,686€)*, with Morgan Le Corre Juratic \hfill 2024
 
-UniLu FoKo Funding *(12,231 CHF ≈ 13,101€)*, with Alberto López Ortega and Javier Padilla Moreno-Torres \hfill 2023
+UniLu FoKo Funding *(12,231 CHF ≈ 13,101€)*, with Alberto López Ortega & Javier Padilla Moreno-Torres \hfill 2023
 
 EUI Mission Funding for Research Activities *(2,547€)*, with Morgan Le Corre Juratic \hfill 2022
 
@@ -208,19 +208,19 @@ RECSM-UPF Summer School in Survey Methodology, *Pompeu-Fabra University* \hfill 
 
 # Skills
 
-Programming: *R (advanced), Python (beginner)*
-  
-Statistical Software: *RStudio, Stata, SPSS, Excel*
-
-Surveys: *Qualtrics*
-  
-Version Control System: *GitHub*
-  
-Text Processor: *Quarto, RMarkdown, Overleaf, Office,* \LaTeX 
-  
-Reference Management: *Zotero*
-
-Languages: *English (proficient), Spanish (native), Italian (advanced), French (beginner), German (beginner)*
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+Programming: \emph{R (advanced), Python (beginner)}\\[0.5em]
+Statistical Software: \emph{RStudio, Stata, SPSS, Excel}\\[0.5em]
+Surveys: \emph{Qualtrics}\\[0.5em]
+Version Control System: \emph{GitHub}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+Text Processor: \emph{Quarto, Overleaf}, \LaTeX, \emph{Office} \\[0.5em]
+Reference Management: \emph{Zotero}\\[0.5em]
+Languages: \emph{English (proficient), Spanish (native), Italian (advanced), French (beginner), German (beginner)}
+\end{minipage}
 
 # Referees
 
