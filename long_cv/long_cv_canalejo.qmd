@@ -59,27 +59,27 @@ Moreno-Torres, J. P., Canalejo-Molero, Á., & López Ortega, A. (2025). When the
 
 # Under Review
 
+Ferreira da Silva, F., **Canalejo-Molero, Á.**, Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing Partisan Animosity with Voting Advice Applications (VAAs)* (Revise and resubmit, ***BJPols***)
+
 Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? Theory and Evidence* [[Preprint](https://osf.io/preprints/osf/58csh_v1)] (Revise and resubmit, ***EJPR***)
 
-**Canalejo-Molero, Á.**, Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Revise and resubmit, ***EPSR***)
-
-**Canalejo-Molero, Á.** & Le Corre Juratic, M. *Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy?* [[Preprint](https://osf.io/7bfka)] (Under review, ***EPSR***)
+**Canalejo-Molero, Á.** & Le Corre Juratic, M. *Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy?* [[Preprint](https://osf.io/7bfka)] (Revise and resubmit, ***EPSR***)
 
 &nbsp; --- Djøf Forlag prize for the best paper presented by a junior researcher at the 2023 Danish Political Science Association conference
 
 &nbsp; --- Wilson award for the best paper on French politics presented at the 2022 APSA meeting
 
+**Canalejo-Molero, Á.**, Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Revise and resubmit, ***EPSR***)
+
 Le Corre Juratic, M. & **Canalejo-Molero, Á.** *When Losers Dissent: Affective Polarization and the Logic of Contestation* (Under review, ***AJPS***)
 
 **Canalejo-Molero, Á.,** López Ortega, A. & Moreno-Torres, J. P. *A Theory of Relative State Devolution Preferences: Evidence and Implications* (Under review, ***JOP***)
 
-Ferreira da Silva, F., **Canalejo-Molero, Á.**, Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing Partisan Animosity with Voting Advice Applications (VAAs)* (Under review, ***BJPols***)
-
-**Canalejo-Molero, Á.,** Bürgisser, R., van Ditmars, M. M. & Trechsel, A. H. *The Political Conflict Potential of Digitalization* (Under review, ***CPS***)
-
 # Working Papers
 
 Canalejo-Molero, Á. *Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy* [[Preprint](https://osf.io/ekymh)]
+
+Canalejo-Molero, Á., Bürgisser, R., van Ditmars, M. M. & Trechsel, A. H. *The Political Conflict Potential of Digitalization* (Working paper available upon request)
 
 Canalejo-Molero, Á. *Disruptive Elections and their Implications for Satisfaction with Democracy* (Working paper available upon request)
 
@@ -88,8 +88,6 @@ Canalejo-Molero, Á. *Does New Party Entry Increase Electoral Turnout? Quasi-Exp
 # Work in Progress
 
 The Politicization of Digitalization (with Flechtner, M. & Trechsel, A. H.)
-
-Can Parties Mobilize Voters over Digitalization Issues? (with van Ditmars, M. M. & Trechsel, A. H.)
 
 Internal Migration and Regional Devolution Preferences (López Ortega, A. & Moreno-Torres, J. P)
 
@@ -145,7 +143,7 @@ International Political Science Association (IPSA) \hfill 2025
 
 Computational Text Analysis Conference (COMPTEXT) \hfill 2023
 
-Swiss Political Science Association (SPSA) \hfill 2026 (accepted), 2025 (accepted), 2024
+Swiss Political Science Association (SPSA) \hfill 2026, 2025 (accepted), 2024
 
 Spanish Political Science Association (AECPA) \hfill 2024
 
