@@ -47,15 +47,13 @@ MSc in Social Sciences, *Carlos III-Juan March Institute, University Carlos III 
 
 # Peer-Reviewed Publications
 
-1. Moreno-Torres, J. P., Canalejo-Molero, Á., & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)
+1. Canalejo-Molero, Á., Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A., & Trechsel, A. H. (2026). Priming common European and democratic values does not reduce affective polarization. *European Political Science Review*, 1–20. [doi:10.1017/S1755773926100496](doi:10.1017/S1755773926100496)
+
+2. Moreno-Torres, J. P., Canalejo-Molero, Á., & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)
 
 # Working papers
 
-Canalejo-Molero, Á., Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Conditionally accepted, EPSR)
-
-Ferreira da Silva, F., Canalejo-Molero, Á., Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing Partisan Animosity with Voting Advice Applications (VAAs)* (Revise and resubmit, BJPols)
-
-Padilla-Galviz, E. S. & Canalejo-Molero, Á. *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? Theory and Evidence* [[Preprint](https://osf.io/preprints/osf/58csh_v1)] (Revise and resubmit, EJPR)
+Padilla-Galviz, E. S. & Canalejo-Molero, Á. *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? Theory and Evidence* [[Preprint](https://osf.io/preprints/osf/58csh_v1)] (Forthcoming, EJPR)
 
 Canalejo-Molero, Á. & Le Corre Juratic, M. *Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy?* [[Preprint](https://osf.io/7bfka)] (Revise and resubmit, EPSR)
 
@@ -69,6 +67,8 @@ Canalejo-Molero, Á., López Ortega, A. & Moreno-Torres, J. P. *A Theory of Rela
 
 Canalejo-Molero, Á. *Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy* [[Preprint](https://osf.io/ekymh)]
 
+Ferreira da Silva, F., Canalejo-Molero, Á., Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing Partisan Animosity with Voting Advice Applications (VAAs)* (Working paper available upon request)
+
 Canalejo-Molero, Á., Bürgisser, R., van Ditmars, M. M. & Trechsel, A. H. *The Political Conflict Potential of Digitalization* (Working paper available upon request)
 
 Canalejo-Molero, Á. *Disruptive Elections and their Implications for Satisfaction with Democracy* (Working paper available upon request)
@@ -78,6 +78,8 @@ Canalejo-Molero, Á. *Does New Party Entry Increase Electoral Turnout? Quasi-Exp
 # Work in Progress
 
 The Politicization of Digitalization (with Flechtner, M. & Trechsel, A. H.)
+
+Understanding losers' consent and its withdrawal (with Jurado, I. & Serrano-Serrat, J.)
 
 Early political socialization and school-based interventions (with Trechsel, A. H.)
 
