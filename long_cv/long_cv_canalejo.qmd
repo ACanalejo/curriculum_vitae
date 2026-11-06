@@ -71,7 +71,7 @@ politicians: Individual and collective outcomes. *European Journal of Political 
 
 # Working Papers
 
-Ferreira da Silva, F., Canalejo-Molero, Á., Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing Partisan Animosity with Voting Advice Applications (VAAs)* (Under rewiew)
+Ferreira da Silva, F., Canalejo-Molero, Á., Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing Partisan Animosity with Voting Advice Applications (VAAs)* (Under review)
 
 Canalejo-Molero, Á., Bürgisser, R., van Ditmars, M. M. & Trechsel, A. H. *The Political Conflict Potential of Digitalization* (Under review)
 
@@ -121,7 +121,7 @@ IPP-CSIC Research Seminar \hfill 2024
 
 EUI Towards Affective Depolarization Workshop \hfill 2024
 
-Luiss Guido Carli Cluster of Excelence on Elections (CISE) Seminar \hfill 2024
+Luiss Guido Carli Cluster of Excellence on Elections (CISE) Seminar \hfill 2024
 
 EU Comission - Joint Research Centre (JRC) DIGCLASS Workshop \hfill 2023
 
